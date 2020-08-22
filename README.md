@@ -28,8 +28,8 @@ Mirai 是一个在全平台下运行，提供 QQ Android 和 TIM PC 协议支持
 使用方式：下载&运行  
 linux: wget -c 下面表格的链接 && chmod +x miraiOK* && ./miraiOK*  
 ↑被逼的 应该有更好的方法
-Arch: ```yaourt -S miraiok-bin``` 或 ```yay mirok-bin```
-如果wget命令执行后遇到Unsupported scheme错误，可加入--no-check-certificate参数解决
+Arch: ```yaourt -S miraiok-bin``` 或 ```yay mirok-bin```  
+如果wget命令执行后遇到Unsupported scheme错误，可加入--no-check-certificate参数解决  
 例: wget --no-check-certificate -c 下面表格的链接 && chmod +x miraiOK* && ./miraiOK*
 
 
